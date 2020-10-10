@@ -1,4 +1,11 @@
 ## Innovation-Development-Project
+
+
+• Performed Social Media Analytics and Competitor Analysis on finance related reviews from YouTube and Twitter API, to understand the customers and their market trends.
+• Developed landing pages, based on our market research, clean UI & incorporated features like Chatbot, Investment Quizzes, User Survey.
+• Recommended suggestions based on analysis of test results to increase Fidelity's Millennial user interaction.
+
+
 <img src="https://user-images.githubusercontent.com/44602083/83566990-b7fcaa80-a4d5-11ea-94a4-8cce52fdfe64.png" width=600 height=400>
 
 ![image](https://user-images.githubusercontent.com/44602083/83569766-dbc1ef80-a4d9-11ea-8457-943103e8e8aa.png)
