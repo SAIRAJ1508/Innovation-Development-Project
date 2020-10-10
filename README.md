@@ -2,7 +2,9 @@
 
 
 • Performed Social Media Analytics and Competitor Analysis on finance related reviews from YouTube and Twitter API, to understand the customers and their market trends.
+
 • Developed landing pages, based on our market research, clean UI & incorporated features like Chatbot, Investment Quizzes, User Survey.
+
 • Recommended suggestions based on analysis of test results to increase Fidelity's Millennial user interaction.
 
 
